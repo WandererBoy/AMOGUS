@@ -6,6 +6,10 @@ int hui(int i){
     return i;
 }
 
+int time(string l) {
+    cout << l;
+}
+
 int main() {
     int j;
     int mama = 0;
@@ -13,11 +17,4 @@ int main() {
     cout << hui(j);
     return 0;
 }
-
-/* sdhjgljzio;fjl;kzjgkl;jz
- ksjhbgfsaj
- ]
- \sl;kgjslkjfs
- fsfsjogs
- */
 
