@@ -8,6 +8,7 @@ int hui(int i){
 
 int main() {
     int j;
+    int mama = 0;
     cin >> j;
     cout << hui(j);
     return 0;
